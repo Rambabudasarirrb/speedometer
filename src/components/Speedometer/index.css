@@ -1,0 +1,42 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #07080c;
+  height: 120vh;
+}
+.image {
+  height: 300px;
+  width: 700px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #cbd5e1;
+}
+.speed-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  height: 40px;
+  width: 140px;
+  border-radius: 5px;
+}
+
+.break-btn {
+  background-color: #07080c;
+  color: #ffffff;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  margin-left: 20px;
+}
